@@ -1,0 +1,3 @@
+/home/peter/Projects/Plotty/build/CMakeFiles/Plotty.dir
+/home/peter/Projects/Plotty/build/CMakeFiles/edit_cache.dir
+/home/peter/Projects/Plotty/build/CMakeFiles/rebuild_cache.dir

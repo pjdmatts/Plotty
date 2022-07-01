@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Plotty.dir/src/example.cpp.o -o Plotty 
